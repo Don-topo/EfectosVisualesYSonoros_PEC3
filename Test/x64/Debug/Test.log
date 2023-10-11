@@ -1,0 +1,11 @@
+﻿  Cave.cpp
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(414,31): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(417,29): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(420,33): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(423,31): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(426,29): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(429,29): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(432,30): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(435,27): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\Test\Cave.cpp(397): warning C4172: devolución de dirección de la variable local o temporal: directions
+  Test.vcxproj -> C:\Users\ruben\Documents\UOC\EfectosVisuales\PEC3\Test\x64\Debug\Test.exe
